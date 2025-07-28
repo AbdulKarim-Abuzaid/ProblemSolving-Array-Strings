@@ -12,13 +12,13 @@ public class ProblemSolvingArrayStrings {
 
     public static void main(String[] args) {
         
-     RotateArray obj = new RotateArray() ;
+    isUniqeString obj = new isUniqeString() ;
+
+    
+    System.out.println(obj.isUnique3("b")) ;
+    
+    
      
-     int[] nums = {1,2,3,4,5,6,7} ;
-     obj.rotateArray(nums, 4);
-     for(int i=0 ; i< nums.length ; i++ ){
-         System.out.println(nums[i]) ;
-     }
        
     }
 }
