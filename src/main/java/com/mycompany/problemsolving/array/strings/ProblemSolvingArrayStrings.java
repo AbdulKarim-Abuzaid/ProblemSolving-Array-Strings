@@ -12,10 +12,20 @@ public class ProblemSolvingArrayStrings {
 
     public static void main(String[] args) {
         
-    isUniqeString obj = new isUniqeString() ;
-
+    Palindrome_Permutation obj = new Palindrome_Permutation() ;
+     
+    boolean x = obj.isPermutationPalindrom("g hTactffCaaa") ;
+     System.out.println(x) ;
+     String name = "Abd Abozaid" ;
+     System.out.println("The Name Before Remove all spaces "+ name );
+     name = name.replaceAll(" ", "") ;
+     System.out.println("The Name after Remove all spaces "+ name );
+     
     
-    System.out.println(obj.isUnique3("b")) ;
+     
+     
+     
+    
     
     
      

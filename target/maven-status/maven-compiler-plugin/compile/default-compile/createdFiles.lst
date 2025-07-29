@@ -1,11 +1,13 @@
-com\mycompany\problemsolving\array\strings\AnagramChecker.class
 com\mycompany\problemsolving\array\strings\RemoveDublicates2.class
-com\mycompany\problemsolving\array\strings\RemoveElement.class
 com\mycompany\problemsolving\array\strings\RotateArray.class
-com\mycompany\problemsolving\array\strings\ProblemSolvingArrayStrings.class
-com\mycompany\problemsolving\array\strings\isUniqeString.class
+com\mycompany\problemsolving\array\strings\Palindrome_Permutation.class
 com\mycompany\problemsolving\array\strings\MostFrequancyOccurance.class
 com\mycompany\problemsolving\array\strings\MergeTwoSortedArray.class
 com\mycompany\problemsolving\array\strings\RemoveDublicate.class
 com\mycompany\problemsolving\array\strings\MajorityElement.class
+com\mycompany\problemsolving\array\strings\URLife.class
+com\mycompany\problemsolving\array\strings\AnagramChecker.class
+com\mycompany\problemsolving\array\strings\RemoveElement.class
+com\mycompany\problemsolving\array\strings\ProblemSolvingArrayStrings.class
+com\mycompany\problemsolving\array\strings\isUniqeString.class
 com\mycompany\problemsolving\array\strings\ReverseWordsInStrint.class
